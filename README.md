@@ -43,4 +43,5 @@ Link to download: https://unity.com/download
 - Make sure you have Unity Hub and an Unity built installed (as we describe in *Introduction*)
 - In Unity Hub, click in `Open > Add project from disk`
 - Select the parent folder of the repository, containing the Unity project. You will differentiate it because it contains folders such as `Assets` or `Packages`.
-- Open the project by selecting the installed built of Unity. That's all!
+- Open the project by selecting the installed built of Unity.
+- In the project, open "SampleScene". That's all!
